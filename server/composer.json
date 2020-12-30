@@ -4,6 +4,6 @@
     },
     "scripts": {
         "server": "php -S localhost:8080",
-        "client": "cd client && npm start"
+        "client": "cd .. && cd client && npm start"
     }
 }
